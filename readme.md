@@ -1,1 +1,1 @@
-Shortr - Just another URL shortner.# project-shortr
+Shortr - Just another URL shortner.
